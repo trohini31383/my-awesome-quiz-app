@@ -1,0 +1,107 @@
+[
+  {
+    "label": "What is good-morning in French?",
+    "choices": [
+      {
+        "value": "Bonjour",
+        "correct": true
+      },
+      {
+        "value": "Good-afternoon",
+        "correct": false
+      },
+      {
+        "value": "Good-night",
+        "correct": false
+      },
+      {
+        "value": "Good-Bye",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is Gentleman in French?",
+    "choices": [
+      {
+        "value": "Messy",
+        "correct": false
+      },
+      {
+        "value": "Messieurs",
+        "correct": true
+      },
+      {
+        "value": "Bonjour",
+        "correct": false
+      },
+      {
+        "value": "pi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is knife in French?",
+    "choices": [
+      {
+        "value": "Rosa",
+        "correct": false
+      },
+      {
+        "value": "Couteau",
+        "correct": true
+      },
+      {
+        "value": "Good morning",
+        "correct": false
+      },
+      {
+        "value": "Court",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is 5 in French?",
+    "choices": [
+      {
+        "value": "Quatre",
+        "correct": false
+      },
+      {
+        "value": "Cinq",
+        "correct": true
+      },
+      {
+        "value": "Un",
+        "correct": false
+      },
+      {
+        "value": "pi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is good-night in French ?",
+    "choices": [
+      {
+        "value": "Au revoir",
+        "correct": false
+      },
+      {
+        "value": "Bonne nuit",
+        "correct": true
+      },
+      {
+        "value": "Bonsoir",
+        "correct": false
+      },
+      {
+        "value": "Bonjour",
+        "correct": false
+      }
+    ]
+  }
+]
